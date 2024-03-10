@@ -28,5 +28,5 @@ Introduce the purpose of your project.  "Weatherly is a dynamic web application 
 
  "Weatherly aims to provide users with a seamless and informative weather experience, empowering them to make informed decisions based on accurate and up-to-date weather data."
 
- <img src="/images/coin-cropped.png" width="25px" height="28px" alt="coin logo" class="logo-image animate">
 ![Codedex](https://www.codedex.io/)
+![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/743bafd1-57ce-45ba-b42a-ac89b8a0bf43)
