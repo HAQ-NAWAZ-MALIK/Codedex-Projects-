@@ -33,5 +33,8 @@ Forecasting: provides short-term or long-term weather forecasts.
 
  "Weatherly aims to provide users with a seamless and informative weather experience, empowering them to make informed decisions based on accurate and up-to-date weather data."
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/7bd6363e-fc79-4f78-93ec-ba3036d5ac02)
+
+
 ![Codedex](https://www.codedex.io/)
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/743bafd1-57ce-45ba-b42a-ac89b8a0bf43)
