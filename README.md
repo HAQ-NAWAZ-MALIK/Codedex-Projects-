@@ -12,13 +12,17 @@ Introduce the purpose of your project.  "Weatherly is a dynamic web application 
 
 
 
-## 1. Current Weather Display: Describe how your project displays current weather conditions, including temperature, humidity, wind speed, and more.
+## 1. 
+ Current Weather Display: Describe how your project displays current weather conditions, including temperature, humidity, wind speed, and more.
 
-## 2. Location-based Data:  the application enables users to view weather information for specific locations or through geolocation.
+## 2.
+ 
+Location-based Data:  the application enables users to view weather information for specific locations or through geolocation.
 
 
 
-## 3. Forecasting: provides short-term or long-term weather forecasts.
+## 3. 
+Forecasting: provides short-term or long-term weather forecasts.
 
 
 
