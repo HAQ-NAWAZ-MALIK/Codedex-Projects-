@@ -1,6 +1,7 @@
 ## Project  : weather viewer 
 
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/2faf78a2-ec8c-4482-8be6-2801df02bdd2)
 
 ## Introduction:
 
