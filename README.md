@@ -1,4 +1,4 @@
-## Project  : weather viewer 
+![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/f17ed3eb-1aa6-428a-93a4-f825f91e40d5)## Project  : weather viewer 
 
 
 ![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/2faf78a2-ec8c-4482-8be6-2801df02bdd2)
@@ -33,7 +33,7 @@ Forecasting: provides short-term or long-term weather forecasts.
 
  "Weatherly aims to provide users with a seamless and informative weather experience, empowering them to make informed decisions based on accurate and up-to-date weather data."
 
-![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/7bd6363e-fc79-4f78-93ec-ba3036d5ac02)
+![image](https://github.com/HAQ-NAWAZ-MALIK/Codedex-Projects-/assets/86514900/7bd6363e-fc79-4f78-93ec-ba3036d5ac02/https://www.codedex.io/@HAQ-NAWAZ-MALIK)
 
 
 ![Codedex](https://www.codedex.io/)
